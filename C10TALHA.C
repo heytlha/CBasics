@@ -4,7 +4,7 @@ void main()
 	{
 	clrscr();
 	gotoxy(40,13);
-	printf("TALHAAA");
+	printf("TALHA ATEEQUE");
 	getch();
 
 }
